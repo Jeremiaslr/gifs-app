@@ -1,4 +1,3 @@
-import { Gif } from './../../../gifs/interfaces/gifs.interfaces';
 import { Component } from '@angular/core';
 import { GifsService } from '../../../gifs/services/gifs.service';
 
